@@ -1,0 +1,2 @@
+# theic.co
+static page
